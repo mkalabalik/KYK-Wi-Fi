@@ -1,0 +1,4 @@
+1.satýra ==> Kullanýcý Adýnýzý (TC) yazýn,
+2.satýra ==> Þifrenizi yazýn,
+3.satýra ==> Hangi wifi arayüzü ile baðlandýðýnýzý yazýn
+	     (Birden fazla wifi kartý varsa Wi-Fi,Wi-Fi 2 gibi)
